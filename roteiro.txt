@@ -1,0 +1,12 @@
+Servidor de API
+
+instalar pacotes  MSSQL
+
+npm init -y (arquivo de configuração package.json)
+npm i exppress 
+npm i mssql 
+npm i sequelize  
+ 
+
+rodar a aplicação api, no cconsole
+node src/server.js
